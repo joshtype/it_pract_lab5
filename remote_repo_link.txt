@@ -1,0 +1,3 @@
+Link to remote repo for lab 5:
+
+https://github.com/joshtype/it_pract_lab5.git
