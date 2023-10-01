@@ -1,4 +1,1 @@
-def myFunc:
-    print 'Hello'
-
-myFunc
+print("Hello")
